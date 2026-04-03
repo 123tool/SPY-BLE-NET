@@ -57,6 +57,6 @@ Using os.urandom(100), which sends purely random characters that are very diffic
 Every time a scan or mass attack is performed, the script automatically resets hciconfig hci0 in the background to ensure our Bluetooth adapter doesn't crash due to too many simultaneous connections.
 ```
 
-​## ⚠️ Disclaimer
+​⚠️ Disclaimer
 
-**​Hanya untuk tujuan Edukasi dan Audit Penetrasi Resmi. Penggunaan tanpa izin pada perangkat publik adalah tindakan ilegal. SPY-E & 123Tool tidak bertanggung jawab atas kerusakan infrastruktur yang diakibatkan oleh tool ini.**
+> **​Hanya untuk tujuan Edukasi dan Audit Penetrasi Resmi. Penggunaan tanpa izin pada perangkat publik adalah tindakan ilegal. SPY-E & 123Tool tidak bertanggung jawab atas kerusakan infrastruktur yang diakibatkan oleh tool ini.**
